@@ -1,2 +1,2 @@
-# kwantu
-Kwantu NodeJs Application
+# widget-explorer
+Kwantu Widget Explorer
